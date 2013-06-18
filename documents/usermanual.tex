@@ -1,0 +1,49 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{hyperref}
+
+\textheight=22cm
+\textwidth=14.945cm
+\topmargin=0.5cm
+\headheight=0cm
+\headsep=0cm
+\oddsidemargin=0.5cm
+\evensidemargin=0.5cm
+\columnsep=0.8cm
+\renewcommand{\baselinestretch}{1.3}
+
+\begin{document}
+
+\begin{titlepage}
+  \begin{center} \sloppy
+    \large \textsc{Project YaJTris - Yet another Java Tetris clone }
+    \vfill
+
+    \huge \textbf{User's manual} \vfill
+
+    \LARGE Jussi Mäki - joamaki@gmail.com
+    \vspace{3mm}
+
+    A programming project\\
+    for Mika Holmström, University of Helsinki, Computer Science department
+
+    \vfill
+
+    Helsinki \today
+    % \number\day .\number\month .\number\year
+
+  \end{center}
+\end{titlepage}
+
+% Hide page number in toc
+\thispagestyle{empty}
+
+\tableofcontents
+
+\newpage
+\setcounter{page}{1}
+
+\include{usermanual_content}
+
+\end{document}

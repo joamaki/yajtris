@@ -1,0 +1,15 @@
+\BOOKMARK [1][-]{section.1}{User manual}{}
+\BOOKMARK [2][-]{subsection.1.1}{Introduction}{section.1}
+\BOOKMARK [2][-]{subsection.1.2}{Installation}{section.1}
+\BOOKMARK [2][-]{subsection.1.3}{Running}{section.1}
+\BOOKMARK [2][-]{subsection.1.4}{Playing}{section.1}
+\BOOKMARK [2][-]{subsection.1.5}{Compiling}{section.1}
+\BOOKMARK [1][-]{section.2}{Program structure and internals}{}
+\BOOKMARK [2][-]{subsection.2.1}{Overview}{section.2}
+\BOOKMARK [2][-]{subsection.2.2}{Class diagram}{section.2}
+\BOOKMARK [2][-]{subsection.2.3}{Class descriptions}{section.2}
+\BOOKMARK [2][-]{subsection.2.4}{Class interactions}{section.2}
+\BOOKMARK [2][-]{subsection.2.5}{Improvement ideas}{section.2}
+\BOOKMARK [1][-]{section.3}{Testing}{}
+\BOOKMARK [2][-]{subsection.3.1}{Unit tests}{section.3}
+\BOOKMARK [2][-]{subsection.3.2}{System tests}{section.3}
